@@ -1,0 +1,11 @@
+{
+  "email": "SHUBERT-ANNA@MAIL.RU",
+  "phone": "+7 (913) 437-89-70",
+  "telegram": "https://t.me/bit_game",
+  "max": "#",
+  "address": "654080, Кемеровская область-Кузбасс, г. Новокузнецк, улица Франкфурта (Центральный р-н), д.6",
+  "socials": [
+    { "name": "Telegram", "url": "https://t.me/bit_game" },
+    { "name": "Max", "url": "#" }
+  ]
+}
